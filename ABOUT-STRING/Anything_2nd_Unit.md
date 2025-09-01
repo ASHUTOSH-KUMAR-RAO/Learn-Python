@@ -9,7 +9,7 @@
 
 str1 = "Awash Kumar"
 str2 = 'Abhisek Kumar Singh'
-str3 = """Battery Pandey""""
+str3 = """Battery Pandey"""
 ```
 ### Escape sequence Character :- used for the formating Purpose, Ex=> tab,nextline etc.
 
@@ -96,3 +96,9 @@ print(str.find("o")) # Output:- 6
 str = "Ashutosh Kumar Rao"
 print(str.count("o")) # Output:- 2
 ```
+
+# Setup For Your Local Machine For Running Your Python Program :👋
+
+`python -m venv env` :- Basically it's a setup for Enviornment 
+
+`env\scripts\activate` :- That Means to activate your enviornment for your particular Folder
