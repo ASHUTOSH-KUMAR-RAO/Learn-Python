@@ -1,6 +1,6 @@
 #  About Dectnories :-
 
-- The Combination Of key-Value pairs is known as Dicnories
+- The Combination Of key-Value pairs is known as Dictonaries
 
 - It is a Mutable.
 
