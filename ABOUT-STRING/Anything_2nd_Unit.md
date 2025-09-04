@@ -92,7 +92,7 @@ str = "Ashutosh Kumar Rao"
 print(str.find("o")) # Output:- 6
 ```
 ```python
-10th => count() ==  find how many times are there in string
+10th => count() ==  find how many times are there in stringbo
 str = "Ashutosh Kumar Rao"
 print(str.count("o")) # Output:- 2
 ```
